@@ -38,3 +38,16 @@ MD5sum: 4a638c250c978452a932cc1d25a01cae
 Description: A fix for the iOS 7 AppStore! Credit to bag.xml for the original iTunesStoreX Tweak
 Name: iTunesStoreX7 (BETA)
 Author: Jyvee <jyveeanimate@jyvee8games.org>
+
+Package: org.jyvee8games.itunesfix
+Version: 0.2.6
+Section: Tweaks
+Maintainer: Jyvee <jyveeanimate@jyvee8games.org>
+Depends: firmware (>=7.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/org.jyvee8games.itunesfix_0.2.5-iphoneos-arm.deb
+Size: 938740
+MD5sum: 96ead52bac72d58f150d43f412ed84a6
+Description: A fix for the iOS 7 AppStore! Credit to bag.xml for the original iTunesStoreX Tweak
+Name: iTunesStoreX7 (BETA)
+Author: Jyvee <jyveeanimate@jyvee8games.org>
